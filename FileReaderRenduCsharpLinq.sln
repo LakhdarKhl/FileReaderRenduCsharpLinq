@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReaderRenduCsharpLinq", "FileReaderRenduCsharpLinq\FileReaderRenduCsharpLinq.csproj", "{0BBA18F1-BB1B-450B-BF51-496E8C4746CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBA18F1-BB1B-450B-BF51-496E8C4746CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBA18F1-BB1B-450B-BF51-496E8C4746CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBA18F1-BB1B-450B-BF51-496E8C4746CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBA18F1-BB1B-450B-BF51-496E8C4746CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10923A87-E19F-4C60-B56A-C445A810B749}
+	EndGlobalSection
+EndGlobal
