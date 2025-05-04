@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfUser>
+  <User>
+    <Id>1</Id>
+    <Name>Alice</Name>
+    <Age>30</Age>
+    <City>Paris</City>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Name>Bob</Name>
+    <Age>25</Age>
+    <City>Lyon</City>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Name>Charlie</Name>
+    <Age>40</Age>
+    <City>Marseille</City>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Name>Dave</Name>
+    <Age>22</Age>
+    <City>Nice</City>
+  </User>
+</ArrayOfUser>
